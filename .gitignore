@@ -1,0 +1,37 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Pygame-specific
+*.pgm
+*.ppm
+*.pbm
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Other
+*.bak
+*.tmp
